@@ -20,3 +20,5 @@ t3-small-node-plan
 .DS_Store
 Thumbs.db
 .vscode/
+github-actions-ecr-policy.json
+github-actions-trust-policy.json
