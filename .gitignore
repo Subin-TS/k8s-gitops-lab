@@ -1,0 +1,22 @@
+# Terraform
+**/.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfplan
+crash.log
+crash.*.log
+
+# Terraform variable files
+terraform.tfvars
+
+# Local Terraform plans
+t3-small-node-plan
+
+# Kubernetes local files
+*.secret.yaml
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
