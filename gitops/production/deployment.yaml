@@ -22,6 +22,6 @@ spec:
     spec:
       containers:
         - name: demo-app
-          image: 275839157288.dkr.ecr.ap-south-2.amazonaws.com/k8s-gitops-app:962a7ecaa1642151a18129524b0186af748a7808
+          image: 275839157288.dkr.ecr.ap-south-2.amazonaws.com/k8s-gitops-app:52df64c7f36061cfab551bbc24c3aa8e55cbb27b
           ports:
             - containerPort: 5000
